@@ -66,6 +66,7 @@
                 app:layout_constraintStart_toStartOf="@id/product_title"
                 app:layout_constraintEnd_toEndOf="@id/product_title"
                 android:layout_marginTop="2dp"
+                android:textColor="@android:color/darker_gray"
                 tools:text="\$200.0"/>
 
             <androidx.constraintlayout.widget.Guideline
